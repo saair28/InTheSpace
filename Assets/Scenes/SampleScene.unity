@@ -1212,8 +1212,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9911cea2667582a44907bf3fb2bf32af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempo: -90
+  tiempo: -5
   VerTiempo: {fileID: 1697602117}
+  PonerTiempo: 0
 --- !u!1 &1421560464
 GameObject:
   m_ObjectHideFlags: 0
